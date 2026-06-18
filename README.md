@@ -1,6 +1,6 @@
 # Analisis Kemampuan Numerasi Siswa SMP dan Faktor-Faktor yang Memengaruhinya Berdasarkan Asesmen Nasional 2025
 
-Proyek akhir mata kuliah **Data Mining** — Universitas Negeri Semarang (UNNES)
+Proyek akhir mata kuliah **Data Mining** Kelompok 9 Universitas Negeri Semarang (UNNES)
 
 Repositori ini berisi notebook Google Colab (`Analisis_Numerasi_Siswa_SMP.ipynb`) yang menganalisis kemampuan numerasi siswa SMP/MTs sederajat menggunakan data **Rapor Pendidikan / Asesmen Nasional 2025** yang dipublikasikan oleh Kemendikdasmen. Analisis mencakup tiga teknik data mining utama: **regresi**, **klasifikasi**, dan **clustering (K-Means)**.
 
