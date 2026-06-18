@@ -344,4 +344,4 @@ Ringkasan temuan kunci dari ketiga pendekatan:
 
 ---
 
-*Proyek akhir mata kuliah Data Mining, Universitas Negeri Semarang (UNNES).*
+
